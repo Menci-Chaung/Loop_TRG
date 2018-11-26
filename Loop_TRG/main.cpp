@@ -3,7 +3,7 @@
 //  Loop_TRG
 //
 //  Created by Zhengyuan Yue on 2018/11/26.
-//  Copyright © 2018 Zhengyuan Yue, Liu Honghui and Zhang Wenqian. All rights reserved.
+//  Copyright © 2018 Zhengyuan Yue, Honghui Liu and Wenqian Zhang. All rights reserved.
 //  Article reference: Phys. Rev. Lett. 118, 110504 (2017)
 //
 
